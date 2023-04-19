@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+// https://www.techiedelight.com/quicksort/
+
 class QuickSort {
 
     public static void quickSort(int[] arr, int start, int end) {
