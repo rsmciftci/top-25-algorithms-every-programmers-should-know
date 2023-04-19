@@ -1,3 +1,4 @@
+package sorting;
 class HeapSort{
 
     public void sort(int[] arr){
